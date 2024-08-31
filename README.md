@@ -1,2 +1,2 @@
 # TikiTaka
- A Simple Midea Player Code By CPP QT
+ A Simple Media Player Project For New Coder.
